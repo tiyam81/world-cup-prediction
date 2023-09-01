@@ -1,0 +1,953 @@
+DATE,TEAM_1,TEAM_2,WINNER,MARGIN,VENUE,CATEGORY_OF_WINNER
+2-Jan-16,NewZeland,Sri Lanka,NaN,NaN,Nelson,No
+2-Jan-16,Afganisthan,Zimbabwe,Zimbabwe,117 runs,Sharjah,Yes
+4-Jan-16,Afganisthan,Zimbabwe,Zimbabwe,65 runs,Sharjah,Yes
+5-Jan-16,NewZeland,Sri Lanka,NewZeland,36 runs,Mount Maunganui,Yes
+6-Jan-16,Afganisthan,Zimbabwe,Afganisthan,2 wickets,Sharjah,Yes
+12-Jan-16,Australia,India,Australia,5 wickets,Perth,Yes
+15-Jan-16,Australia,India,Australia,7 wickets,Brisbane,Yes
+17-Jan-16,Australia,India,Australia,3 wickets,Melbourne,Yes
+20-Jan-16,Australia,India,Australia,25 runs,Canberra,Yes
+23-Jan-16,Australia,India,India,6 wickets,Sydney,Yes
+25-Jan-16,NewZeland,Pakistan,NewZeland,70 runs,Weillington,Yes
+26-Jan-16,Hong Kong,Scotland,Hong Kong,109 runs,Mong Kok,Yes
+27-Jan-16,UAE,Netherlands,Netherlands,7 wickets,Abu Dhabi,Yes
+28-Jan-16,Hong Kong,Scotland,NaN,NaN,Mong Kok,No
+29-Jan-16,UAE,Netherlands,Netherlands,6 runs,Abu Dhabi,Yes
+31-Jan-16,NewZeland,Pakistan,NewZeland,3 wickets,Auckland,Yes
+3-Feb-16,NewZeland,Australia,NewZeland,159 runs,Auckland,Yes
+3-Feb-16,South Africa,England,England,39 runs,Bloemfontein,Yes
+6-Feb-16,NewZeland,Australia,Australia,4 wickets,Weillington,Yes
+6-Feb-16,South Africa,England,England,5 wickets,Gqeberha,Yes
+8-Feb-16,NewZeland,Australia,NewZeland,55 runs,Hamilton,Yes
+9-Feb-16,South Africa,england,South Africa,7 wickets,Centurion,Yes
+12-Feb-16,South Africa,England,South Africa,1 wicket,Johanesburg,Yes
+14-Feb-16,South Africa,England,South Africa,5 wickets,Capetown,Yes
+16-Apr,Namibia,Nepal,Nepal,5 wickets,Kirtipur,Yes
+18-Apr-16,Namibia,Nepal,Nepal,3 wickets,Kirtipur,Yes
+28-May-16,Kenya,PNG,PNG,6 wickets,Port Moresby,Yes
+30-May-16,Kenya,PNG,PNG,21 runs,Port Moresby,Yes
+3-Jun-16,South Africa,West Indies,West Indies,4 wickets,Guyana,Yes
+5-Jun-16,West Indies,Australia,Australia,6 wickets,Guyana,Yes
+7-Jun-16,South Africa,Australia,South Africa,47 runs,Guyana,Yes
+11-Jun-16,Australia,South Africa,Australia,36 runs,St Kitts,Yes
+11-Jun-16,Zimbabwe,India,India,9 wickets,Harare,Yes
+13-Jun-16,Zimbabwe,India,India,8 wickets,Harare,Yes
+13-Jun-16,Australia,West Indies,West Indies,4 wickets,St Kitts,Yes
+15-Jun-16,Zimbabwe,India,India,10 wickets,Harare,Yes
+15-Jun-16,South Africa,West Indies,South Africa,139 runs,St Kitts,Yes
+16-Jun-16,Sri Lanka,Ireland,Sri Lanka,76 runs,Dublin,Yes
+18-Jun-16,Sri Lanka,Ireland,Sri Lanka,136 runs,Dublin,Yes
+19-Jun-16,South Africa,Australia,NaN,NaN,Barbados,No
+21-Jun-16,Sri Lanka,England,NaN,NaN,Nottingham,No
+21-Jun-16,West Indies,Australia,Australia,6 wickets,Barbados,Yes
+24-Jun-16,Sri Lanka,England,England,10 wickets,Birminham,Yes
+24-Jun-16,West Indies,South Africa,West Indies,100 runs,Barbados,Yes
+26-Jun-16,Sri Lanka,England,NaN,NaN,Bristol,No
+26-Jun-16,Australia,West Indies,Australia,58 runs,Barbados,Yes
+29-Jun-16,Sri Lanka,England,England,6 wickets,London,Yes
+2-Jul-16,Sri Lanka,England,England,122 runs,Cardiff,Yes
+4-Jul-16,Scotland,Afganisthan,NaN,NaN,Edinburgh,No
+6-Jul-16,Scotland,Afganisthan,Afganisthan,78 runs,Edinburgh,Yes
+12-Jul-16,Ireland,Afganisthan,Afganisthan,39 runs,Belfast,Yes
+14-Jul-16,Ireland,Afganisthan,Ireland,6 wickets,Belfast,Yes
+17-Jul-16,Ireland,Afganisthan,Afganisthan,79 runs,Belfast,Yes
+19-Jul-16,Ireland,Afganisthan,Ireland,12 runs,Belfast,Yes
+13-Aug-16,Nepal,Netherlands,Netherlands,7 wickets,Amstelveen,Yes
+14-Aug-16,Scotland,UAE,Scotland,98 runs,Edinburgh,Yes
+15-Aug-16,Nepal,Netherlands,Nepal,19 runs,Amstelveen,Yes
+16-Aug-16,UAE,Scotland,Scotland,7 wickets,Edinburgh,Yes
+18-Aug-16,Ireland,Pakistan,Pakistan,255 runs,Dublin,Yes
+21-Aug-16,Sri Lanka,Australia,Australia,3 wickets,Colombo,Yes
+24-Aug-16,Sri Lanka,Australia,Sri Lanka,82 runs,Colombo,Yes
+24-Aug-16,England,Pakistan,England,44 runs,Southampton,Yes
+27-Aug-16,England,Pakistan,England,4 wickets,Lords,Yes
+28-Aug-16,Sri Lanka,Australia,Australia,2 wickets,Dambulla,Yes
+30-Aug-16,England,Pakistan,England,169 runs,Nottingham,Yes
+31-Aug-16,Sri Lanka,Australia,Australia,6 wickets,Dambulla,Yes
+1-Sep-16,England,Pakistan,England,4 wickets,Leeds,Yes
+4-Sep-16,Sri Lanka,Australia,Australia,5 wickets,Pallekele,Yes
+4-Sep-16,England,Pakistan,Pakistan,4 wickets,Cardiff,Yes
+8-Sep-16,Scotland,Hong Kong,NaN,NaN,Edinburgh,No
+10-Sep-16,Scotland,Hong Kong,Scotland,53 runs,Edinburgh,Yes
+25-Sep-16,Bangladesh,Afganisthan,Bangladesh,7 runs,Mirpur,Yes
+25-Sep-16,South Africa,Ireland,South Africa,206 runs,Benoni,Yes
+27-Sep-16,Australia,Ireland,Australia,9 wickets,Benoni,Yes
+28-Sep-16,Bangladesh,Afganisthan,Afganisthan,2 wickets,Mirpur,Yes
+30-Sep-16,South Africa,Australia,South Africa,6 wickets,Centurion,Yes
+30-Sep-16,Pakistan,West Indies,Pakistan,111 runs,Sharjah,Yes
+1-Oct-16,Bangladesh,Afganisthan,Bangladesh,141 runs,Mirpur,Yes
+2-Oct-16,South Africa,Australia,South Africa,142 runs,Johanesburg,Yes
+2-Oct-16,Pakistan,West Indies,Pakistan,59 runs,Sharjah,Yes
+5-Oct-16,Pakistan,West Indies,Pakistan,136 runs,Abu Dhabi,Yes
+5-Oct-16,South Africa,Australia,South Africa,4 wickets,Durban,Yes
+7-Oct-16,Bangladesh,England,England,21 runs,Mirpur,Yes
+9-Oct-16,South Africa,Australia,South Africa,6 wickets,Gqeberha,Yes
+9-Oct-16,Bangladesh,England,Bangladesh,34 runs,Mirpur,Yes
+12-Oct-16,Bangladesh,England,England,4 wickets,Chattogram,Yes
+12-Oct-16,South Africa,Australia,South Africa,31 runs,Capetown,Yes
+16-Oct-16,India,NewZeland,India,6 wickets,Dharamsala,Yes
+20-Oct-16,India,NewZeland,NewZeland,6 runs,Delhi,Yes
+21-Oct-16,Namibia,PNG,PNG,5 wickets,Port Moresby,Yes
+23-Oct-16,India,NewZeland,India,7 wickets,Mohali,Yes
+23-Oct-16,Namibia,PNG,PNG,6 wickets,Port Moresby,Yes
+26-Oct-16,India,NewZeland,NewZeland,19 runs,Ranchi,Yes
+29-Oct-16,India,NewZeland,India,190 runs,Visakhapatnam,Yes
+4-Nov-16,Hong Kong,PNG,Hong Kong,106 runs,Mong Kok,Yes
+6-Nov-16,Hong Kong,PNG,PNG,14 runs,Mong Kok,Yes
+8-Nov-16,Hong Kong,PNG,Hong Kong,7 wickets,Mong Kok,Yes
+14-Nov-16,Zimbabwe,Sri Lanka,Sri Lanka,8 wickets,Harare,Yes
+16-Nov-16,Sri Lanka,West Indies,West Indies,62 runs,Harare,Yes
+18-Nov-16,Hong Kong,Kenya,Kenya,3 wickets,Nairobi,Yes
+19-Nov-16,Zimbabwe,West Indies,NaN,NaN,Bulawayo,No
+20-Nov-16,Hong Kong,Kenya,Hong Kong,39 runs,Nairobi,Yes
+21-Nov-16,Zimbabwe,Sri Lanka,NaN,NaN,Bulawayo,No
+23-Nov-16,Sri Lanka,West Indies,Sri Lanka,1 run,Bulawayo,Yes
+25-Nov-16,Zimbabwe,West Indies,Zimbabwe,5 runs,Bulawayo,Yes
+27-Nov-16,Zimbabwe,Sri Lanka,Sri Lanka,6 wickets,Bulawayo,Yes
+4-Dec-16,Australia,NewZeland,Australia,68 runs,Sydney,Yes
+6-Dec-16,Australia,NewZeland,Australia,116 runs,Canberra,Yes
+9-Dec-16,Australia,NewZeland,Australia,117 runs,Melbourne,Yes
+26-Dec-16,NewZeland,Bangladesh,NewZeland,77 runs,Christchurch,Yes
+29-Dec-16,NewZeland,Bangladesh,NewZeland,67 runs,Nelson,Yes
+31-Dec-16,NewZeland,Bangladesh,NewZeland,8 wickets,Nelson,Yes
+13-Jan-17,Australia,Pakistan,Australia,92 runs,Brisbane,Yes
+15-Jan-17,India,England,India,3 wickets,Maharastra,Yes
+15-Jan-17,Australia,Pakistan,Pakistan,6 wickets,Melbourne,Yes
+19-Jan-17,India,England,India,15 runs,Barabati,Yes
+19-Jan-17,Australia,Pakistan,Australia,7 wickets,Waca,Yes
+22-Jan-17,Hong Kong,Scotland,Hong Kong,7 wickets,Abu Dhabi,Yes
+22-Jan-17,India,England,England,5 runs,Eden Gardens,Yes
+22-Jan-17,Australia,Pakistan,Australia,86 runs,Sydney,Yes
+24-Jan-17,UAE,Scotland,UAE,4 wickets,Dubai,Yes
+26-Jan-17,UAE,Hong Kong,UAE,6 wickets,Dubai,Yes
+26-Jan-17,Australia,Pakistan,Australia,57 runs,Adelaide,Yes
+28-Jan-17,South Africa,Sri Lanka,South Africa,8 wickets,St George's Park,Yes
+30-Jan-17,NewZeland,Australia,NewZeland,6 runs,EdenPark,Yes
+1-Feb-17,South Africa,Sri Lanka,South Africa,121 runs,Kingsmead,Yes
+2-Feb-17,NewZeland,Australia,NaN,NaN,Mclean Park,No
+4-Feb-17,South Africa,Sri Lanka,South Africa,7 wickets,wanderer's Stadium,Yes
+5-Feb-17,NewZeland,Australia,NewZeland,24 runs,Seddon Park,Yes
+7-Feb-17,South Africa,Sri Lanka,South Africa,40 runs,Newlands,Yes
+10-Feb-17,South Africa,Sri Lanka,South Africa,88 runs,SuperSport Park,Yes
+16-Feb-17,Zimbabwe,Afganisthan,Afganisthan,12 runs,Harare,Yes
+19-Feb-17,NewZeland,South Africa,South Africa,4 wickets,Seddon Park,Yes
+19-Feb-17,Zimbabwe,Afganisthan,Afganisthan,54 runs,Harare,Yes
+21-Feb-17,Zimbabwe,Afganisthan,Zimbabwe,3 runs,Harare,Yes
+22-Feb-17,NewZeland,South Africa,NewZeland,6 runs,Hagley Oval,Yes
+24-Feb-17,Zimbabwe,Afganisthan,Zimbabwe,7 wickets,Harare,Yes
+25-Feb-17,NewZeland,South Africa,South Africa,159 runs,Sky Stadium,Yes
+26-Feb-17,Zimbabwe,Afganisthan,Afganisthan,106 runs,Harare,Yes
+1-Mar-17,NewZeland,South Africa,NewZeland,7 wickets,Seddon Park,Yes
+2-Mar-17,UAE,Ireland,Ireland,85 runs,ICC GCA,Yes
+3-Mar-17,West Indies,England,West Indies,45 runs,SVVR Stadium,Yes
+4-Mar-17,UAE,Ireland,Ireland,8 wickets,ICC GCA,Yes
+4-Mar-17,NewZeland,South Africa,South Africa,6 wickets,EdenPark,Yes
+5-Mar-17,West Indies,England,England,4 wickets,SVVR Stadium,Yes
+9-Mar-17,West Indies,England,England,186 runs ,Kensington Oval,Yes
+15-Mar-17,Afganisthan,Ireland,Afganisthan,30 runs,Greater Noida,Yes
+17-Mar-17,Afganisthan,Ireland,Afganisthan,34 runs,Greater Noida,Yes
+19-Mar-17,Afganisthan,Ireland,Ireland,6 wickets,Greater Noida,Yes
+22-Mar-17,Afganisthan,Ireland,Ireland,3 wickets,Greater Noida,Yes
+24-Mar-17,Afganisthan,Ireland,Afganisthan,7 wickets,Greater Noida,Yes
+25-Mar-17,Sri Lanka,Bangladesh,Bangladesh,90 runs,Dambulla,Yes
+28-Mar-17,Sri Lanka,Bangladesh,NaN,NaN,Dambulla,No
+31-Mar-17,UAE,PNG,UAE,82 runs ,Abu Dhabi,Yes
+1-Apr-17,Sri Lanka,Bangladesh,Sri Lanka,70 runs,Singhalese Sports club Ground,Yes
+2-Apr-17,UAE,PNG,PNG,26 runs,Abu Dhabi,Yes
+4-Apr-17,UAE,PNG,UAE,103 runs,Abu Dhabi,Yes
+7-Apr-17,West Indies,Pakistan,West Indies,4 wickets,Providence stadium,Yes
+9-Apr-17,West Indies,Pakistan,Pakistan,74 runs,Providence stadium,Yes
+11-Apr-17,West Indies,Pakistan,Pakistan,6 wickets,Providence stadium,Yes
+5-May-17,England,Ireland,England,7 wickets,Bristol,Yes
+7-May-17,England,Ireland,England,85 runs,Lords,Yes
+12-May-17,Ireland,Bangladesh,NaN,NaN,Village,No
+14-May-17,Ireland,NewZeland,NewZeland,51 runs,Village,Yes
+17-May-17,Bangladesh,NewZeland,NewZeland,4 wickets,Castle Avenue,Yes
+19-May-17,Ireland,Bangladesh,Bangladesh,8 wickets,Village,Yes
+21-May-17,Ireland,NewZeland,NewZeland,190 runs,Village,Yes
+24-May-17,England,South Africa,England,72 runs,Headingly,Yes
+24-May-17,Bangladesh,NewZeland,Bangladesh,5 wickets,Castle Avenue,Yes
+27-May-17,England,South Africa,England,2  runs,The Rose Bowl,Yes
+29-May-17,England,South Africa,South Africa,7 wickets,Lords,Yes
+1-Jun,England,Bangladesh,England,8 wickets,Kensington Oval,Yes
+2-Jun,Australia,NewZeland,NaN,NaN,Edgebaston,No
+3-Jun,Sri Lanka,South Africa,South Africa,96 runs,Kensington Oval,Yes
+4-Jun,India,Pakistan,India,124 runs,Edgebaston,Yes
+5-Jun,Australia,Bangladesh,NaN,NaN,Kensington Oval,No
+6-Jun,England,NewZeland,England,87 runs,Sophia Garden,Yes
+7-Jun,Pakistan,South Africa,Pakistan,19 runs,Edgebaston,Yes
+8-Jun,India,Sri Lanka,Sri Lanka,7 wickets,Kensington Oval,Yes
+9-Jun,West Indies,Afganisthan,Afganisthan,63 runs,Darren Sammy NCS,Yes
+9-Jun-17,NewZeland,Bangladesh,Bangladesh,5 wickets,Sophia Garden,Yes
+10-Jun-17,England,Australia,England,40 runs,Edgebaston,Yes
+11-Jun-17,West Indies,Afganisthan,West Indies,4 wickets,Darren Sammy NCS,Yes
+11-Jun-17,India,South Africa,india,8 wickets,Kensington Oval,Yes
+12-Jun-17,Sri Lanka,Pakistan,Pakistan,3 wickets,Sophia Garden,Yes
+14-Jun-17,West Indies,Afganisthan,NaN,NaN,Darren Sammy NCS,No
+14-Jun-17,England,Pakistan,Pakistan,8 wickets,Sophia Garden,Yes
+15-Jun-17,Scotland,Zimbabwe,Scotland,26 runs,Grange Cricket Club,Yes
+15-Jun-17,Bangladesh,India,India,9 wickets,Edgebaston,Yes
+17-Jun-17,Scotland,Zimbabwe,Zimbabwe,6 wickets,Grange Cricket Club,Yes
+18-Jun-17,India,Pakistan,Pakistan,180 runs,Kensington Oval,Yes
+23-Jun-17,West Indies,India,NaN,NaN,Queen's Park Oval,No
+25-Jun-17,West Indies,India,India,105 runs,Queen's Park Oval,Yes
+30-Jun-17,Sri Lanka,Zimbabwe,Zimbabwe,6 wickets,Galle,Yes
+30-Jun-17,West Indies,India,India,93 runs,SVVR Stadium,Yes
+2-Jul-17,Sri Lanka,Zimbabwe,Sri Lanka,7 wickets,Galle,Yes
+2-Jul-17,West Indies,India,West Indies,11 runs,SVVR Stadium,Yes
+6-Jul-17,Sri Lanka,Zimbabwe,Sri Lanka,8 wickets,Mahinda Rajapaksha Interntional cricket stadium,Yes
+6-Jul-17,West Indies,India,india,8 wickets,Sabina Park,Yes
+8-Jul-17,Sri Lanka,Zimbabwe,Zimbabwe,4 wickets,Mahinda Rajapaksha Interntional cricket stadium,Yes
+10-Jul-17,Sri Lanka,Zimbabwe,Zimbabwe,3 wickets,Mahinda Rajapaksha Interntional cricket stadium,Yes
+20-Aug-17,Sri Lanka,India,India,9 wickets,Dambulla,Yes
+24-Aug-17,Sri Lanka,India,India,3 wickets,Pallekele,Yes
+27-Aug-17,Sri Lanka,India,India,6 wickets,Pallekele,Yes
+31-Aug-17,Sri Lanka,India,India,168 runs,Colombo,Yes
+3-Sep-17,Sri Lanka,India,India,6 wickets,Colombo,Yes
+13-Sep-17,Ireland,West Indies,NaN,NaN,Civil Service Cricket Club,No
+17-Sep-17,India,Australia,India,26 runs,Bengaluru,Yes
+19-Sep-17,England,West Indies,England,7 wickets,Old Trafford,Yes
+21-Sep-17,India,Australia,India,50 runs,Eden Gardens,Yes
+21-Sep-17,England,West Indies,NaN,NaN,Trent Bridge,No
+24-Sep-17,England,West Indies,England,124 runs,Bristol,Yes
+24-Sep-17,India,Australia,India,5 wickets,Indore,Yes
+27-Sep-17,England,West Indies,England,6 runs,Kensington Oval,Yes
+28-Sep-17,India,Australia,Australia,21 runs,Bengaluru,Yes
+29-Sep-17,England,West Indies,England,9 wickets,The Rose Bowl,Yes
+1-Oct-17,India,Australia,India,7 wickets,Bidharva,Yes
+5-Oct-17,PNG,Scotland,Scotland,101 runs,Amini Park,Yes
+8-Oct-17,PNG,Scotland,PNG,5 wickets,Amini Park,Yes
+13-Oct-17,Pakistan,Sri Lanka,Pakistan,83 runs,Dubai,Yes
+15-Oct-17,South Africa,Bangladesh,South Africa,10 wickets,Diamond Oval,Yes
+16-Oct-17,Pakistan,Sri Lanka,Pakistan,32 runs,Abu Dhabi,Yes
+18-Oct-17,South Africa,Bangladesh,South Africa,104 runs,Boland Park,Yes
+18-Oct-17,Pakistan,Sri Lanka,Pakistan,7 wickets,Abu Dhabi,Yes
+20-Oct-17,Pakistan,Sri Lanka,Pakistan,7 wickets,Sharjah,Yes
+22-Oct-17,India,NewZeland,NewZeland,6 wickets,Mumbai,Yes
+22-Oct-17,South Africa,Bangladesh,South Africa,200 runs,Boland Park,Yes
+23-Oct-17,Pakistan,Sri Lanka,Pakistan,9 wickets,Sharjah,Yes
+25-Oct-17,India,NewZeland,India,6 wickets,Maharastra,Yes
+29-Oct-17,India,NewZeland,India,6 runs ,Kanpur,Yes
+24-Nov-17,PNG,Scotland,Scotland,6 wickets,Dubai,Yes
+25-Nov-17,PNG,Scotland,Scotland,4 wickets,Dubai,Yes
+5-Dec-17,Afganisthan,Ireland,Afganisthan,138 runs,Sharjah,Yes
+6-Dec-17,Hong Kong,PNG,Hong Kong,23 runs,ICC GCA,Yes
+7-Dec-17,Afganisthan,Ireland,Ireland,51 runs,Sharjah,Yes
+8-Dec-17,Hong Kong,PNG,Hong Kong,93 runs,ICC GCA,Yes
+10-Dec-17,India,Sri Lanka,Sri Lanka,7 wickets,Himachal Pradesh,Yes
+10-Dec-17,Afganisthan,Ireland,Ireland,5 wickets,Sharjah,Yes
+13-Dec-17,India,Sri Lanka,India,141 runs,Punjab,Yes
+17-Dec-17,India,Sri Lanka,India,8 wickets,Reddy cricket stadium,Yes
+20-Dec-17,NewZeland,West Indies,NewZeland,5 wickets,Cobham Oval,Yes
+23-Dec-17,NewZeland,West Indies,NewZeland,204 runs,Hagley Oval,Yes
+26-Dec-17,NewZeland,West Indies,NewZeland,66 runs,Hagley Oval,Yes
+6-Jan-18,NewZeland,Pakistan,NewZeland,61 runs,Basin Park,Yes
+8-Jan-18,NewZeland,Pakistan,NewZeland,8 wickets,Saxton Oval,Yes
+11-Jan-18,UAE,Ireland,Ireland,4 wickets,ICC GCA,Yes
+13-Jan-18,UAE,Ireland,Ireland,67 runs,ICC GCA,Yes
+13-Jan-18,NewZeland,Pakistan,NewZeland,183 runs,University Oval,Yes
+14-Jan-18,Australia,England,England,5 wickets,Melbourne,Yes
+15-Jan-18,Bangladesh,Zimbabwe,Bangladesh,8 wickets,Mirpur,Yes
+16-Jan-18,Scotland,Ireland,Ireland,6 wickets,ICC GCA,Yes
+16-Jan-18,NewZeland,Pakistan,NewZeland,5 wickets,Seddon Park,Yes
+17-Jan-18,Sri Lanka,Zimbabwe,Zimbabwe,12 runs,Mirpur,Yes
+18-Jan-18,Australia,England,England,4 wickets,Brisbane,Yes
+18-Jan-18,Ireland,Scotland,Ireland,24 runs,ICC GCA,Yes
+18-Jan-18,NewZeland,Pakistan,NewZeland,15 runs,Basin Park,Yes
+19-Jan-18,Bangladesh,Sri Lanka,Bangladesh,163 runs,Mirpur,Yes
+21-Jan-18,Australia,England,England,16 runs,Sydney,Yes
+21-Jan-18,Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Mirpur,Yes
+21-Jan-18,UAE,Scotland,Scotland,31 runs,ICC GCA,Yes
+23-Jan-18,Bangladesh,Zimbabwe,Bangladesh,91 runs,Mirpur,Yes
+23-Jan-18,UAE,Scotland,UAE,4 wickets,ICC GCA,Yes
+25-Jan-18,Bangladesh,Sri Lanka,Sri Lanka,10 wickets,Mirpur,Yes
+26-Jan-18,Australia,England,Australia,3 wickets,Adelaide,Yes
+27-Jan-18,Bangladesh,Sri Lanka,Sri Lanka,79 runs,Mirpur,Yes
+28-Jan-18,Australia,England,England,12 runs,Perth,Yes
+1-Feb-18,South Africa,India,India,6 wickets,Kingsmead,Yes
+4-Feb-18,South Africa,India,India,9 wickets,SuperSport Park,Yes
+7-Feb-18,South Africa,India,India,124 runs,Newlands,Yes
+9-Feb-18,Afganisthan,Zimbabwe,Afganisthan,154 runs,Sharjah,Yes
+10-Feb-18,South Africa,India,South Africa,5 wickets,wanderer's Stadium,Yes
+11-Feb-18,Afganisthan,Zimbabwe,Zimbabwe,154 runs,Sharjah,Yes
+13-Feb-18,Afganisthan,Zimbabwe,Afganisthan,6 wickets,Sharjah,Yes
+13-Feb-18,South Africa,India,India,73 runs,St George's Park,Yes
+16-Feb-18,Afganisthan,Zimbabwe,Afganisthan,10 wickets,Sharjah,Yes
+16-Feb-18,South Africa,India,India,8 wickets,SuperSport Park,Yes
+19-Feb-18,Afganisthan,Zimbabwe,Afganisthan,146 runs,Sharjah,Yes
+25-Feb-18,NewZeland,England,NewZeland,3 wickets,Seddon Park,Yes
+28-Feb-18,NewZeland,England,England,6 wickets,Bay Oval,Yes
+3-Mar-18,NewZeland,England,England,4 runs,Sky Stadium,Yes
+4-Mar-18,Afganisthan,Scotland,Scotland,7 wickets,Bulawayo,Yes
+4-Mar-18,UAE,PNG,UAE,56 runs,Harare,Yes
+6-Mar-18,Hong Kong,Scotland,Scotland,4 wickets,Bulawayo,Yes
+6-Mar-18,NewZeland,England,NewZeland,5 wickets,University Oval,Yes
+6-Mar-18,PNG,Ireland,Ireland,4 wickets,Harare,Yes
+6-Mar-18,UAE,West Indies,West Indies,60 runs,Old Hararians Sports Club,Yes
+6-Mar-18,Zimbabwe,Afganisthan,Zimbabwe,2 runs,Queen's Park Oval,Yes
+8-Mar-18,Afganisthan,Hong Kong,Hong Kong,30 runs,Bulawayo,Yes
+8-Mar-18,PNG,West Indies,West Indies,6 wickets,Old Hararians Sports Club,Yes
+10-Mar-18,NewZeland,England,England,7 wickets,Hagley Oval,Yes
+10-Mar-18,Ireland,West Indies,West Indies,52 runs,Harare,Yes
+10-Mar-18,Zimbabwe,Hong Kong,Zimbabwe,89 runs,Queen's Park Oval,Yes
+12-Mar-18,Ireland,UAE,Ireland,226 runs,Old Hararians Sports Club,Yes
+12-Mar-18,Zimbabwe,Scotland,NaN,NaN,Queen's Park Oval,No
+15-Mar-18,Afganisthan,West Indies,Afganisthan,3 wickets,Harare,Yes
+15-Mar-18,Scotland,UAE,Scotland,73 runs,Queen's Park Oval,Yes
+16-Mar-18,Zimbabwe,Ireland,Zimbabwe,107 runs,Harare,Yes
+17-Mar-18,Hong Kong,PNG,PNG,58 runs,Old Hararians Sports Club,Yes
+18-Mar-18,Ireland,Scotland,Ireland,25 runs,Harare,Yes
+19-Mar-18,Zimbabwe,West Indies,West Indies,4 wickets,Harare,Yes
+20-Mar-18,Afganisthan,UAE,Afganisthan,5 wickets,Old Hararians Sports Club,Yes
+21-Mar-18,Scotland,West Indies,West Indies,5 runs ,Harare,Yes
+22-Mar-18,Zimbabwe,UAE,UAE,3 runs,Harare,Yes
+23-Mar-18,Afganisthan,Ireland,Afganisthan,5 wickets,Harare,Yes
+25-Mar-18,Afganisthan,West Indies,Afganisthan,7 wickets,Harare,Yes
+10-Jun-18,Scotland,England,Scotland,6 runs,Grange Cricket Club,Yes
+13-Jun-18,England,Australia,England,3 wickets,Kensington Oval,Yes
+16-Jun-18,England,Australia,England,38 runs,Sophia Garden,Yes
+19-Jun-18,England,Australia,England,242 runs,Trent Bridge,Yes
+21-Jun-18,England,Australia,England,6 wickets,Riverside Ground,Yes
+24-Jun-18,England,Australia,England,1 wicket,Old Trafford,Yes
+12-Jul-18,England,India,India,8 wickets,Trent Bridge,Yes
+13-Jul-18,Zimbabwe,Pakistan,Pakistan,201 runs,Queen's Park Oval,Yes
+14-Jul-18,England,India,England,86 runs,Lords,Yes
+16-Jul-18,Zimbabwe,Pakistan,Pakistan,9 wickets,Queen's Park Oval,Yes
+17-Jul-18,England,India,England,8 wickets,Headingly,Yes
+18-Jul-18,Zimbabwe,Pakistan,Pakistan,9 wickets,Queen's Park Oval,Yes
+20-Jul-18,Zimbabwe,Pakistan,Pakistan,244 runs,Queen's Park Oval,Yes
+22-Jul-18,West Indies,Bangladesh,Bangladesh,48 runs,Providence stadium,Yes
+22-Jul-18,Zimbabwe,Pakistan,Pakistan,131 runs,Queen's Park Oval,Yes
+25-Jul-18,West Indies,Bangladesh,West Indies,3 runs,Providence stadium,Yes
+28-Jul-18,West Indies,Bangladesh,Bangladesh,18 runs,Warner's Park,Yes
+29-Jul-18,Sri Lanka,South Africa,South Africa,5 wickets,Dambulla,Yes
+1-Aug-18,Netherlands,Nepal,Netherlands,55 runs,VRA Ground,Yes
+1-Aug-18,Sri Lanka,South Africa,South Africa,4 wickets,Dambulla,Yes
+3-Aug-18,Netherlands,Nepal,Nepal,1 run,VRA Ground,Yes
+5-Aug-18,Sri Lanka,South Africa,South Africa,78 runs,Pallekele,Yes
+8-Aug-18,Sri Lanka,South Africa,Sri Lanka,3 runs,Pallekele,Yes
+12-Aug-18,Sri Lanka,South Africa,Sri Lanka,178 runs,Colombo,Yes
+27-Aug-18,Ireland,Afganisthan,Afganisthan,29 runs,Civil Service Cricket Club,Yes
+29-Aug-18,Ireland,Afganisthan,Ireland,3 wickets,Civil Service Cricket Club,Yes
+30-Aug-18,Nepal,UAE,UAE,78 runs,Kinrara Academy Oval,Yes
+31-Aug-18,Ireland,Afganisthan,Afganisthan,8 wickets,Civil Service Cricket Club,Yes
+15-Sep-18,Bangladesh,Sri Lanka,Bangladesh,137 runs,Dubai,Yes
+16-Sep-18,Hong Kong,Pakistan,Pakistan,8 wickets,Dubai,Yes
+17-Sep-18,Afganisthan,Sri Lanka,Afganisthan,91 runs,Abu Dhabi,Yes
+18-Sep-18,Hong Kong,India,India,26 runs,Dubai,Yes
+19-Sep-18,India,Pakistan,India,8 wickets,Dubai,Yes
+20-Sep-18,Afganisthan,Bangladesh,Afganisthan,136 runs,Abu Dhabi,Yes
+21-Sep-18,Bangladesh,India,India,7 wickets,Dubai,Yes
+21-Sep-18,Afganisthan,Pakistan,Pakistan,3 wickets,Abu Dhabi,Yes
+23-Sep-18,India,Pakistan,India,9 wickets,Dubai,Yes
+23-Sep-18,Afganisthan,Bangladesh,Bangladesh,3 runs,Abu Dhabi,Yes
+25-Sep-18,Afganisthan,India,NaN,NaN,Dubai,No
+26-Sep-18,Bangladesh,Pakistan,Bangladesh,37 runs,Abu Dhabi,Yes
+28-Sep-18,Bangladesh,India,India,3 wickets,Dubai,Yes
+30-Sep-18,South Africa,Zimbabwe,South Africa,5 wickets,Diamond Oval,Yes
+3-Oct-18,South Africa,Zimbabwe,South Africa,120 runs,Mangaung Oval,Yes
+6-Oct-18,South Africa,Zimbabwe,South Africa,4 wickets,Boland Park,Yes
+10-Oct-18,Sri Lanka,England,NaN,NaN,Dambulla,No
+13-Oct-18,Sri Lanka,England,England,31 runs,Dambulla,Yes
+17-Oct-18,Sri Lanka,England,England,7 wickets,Pallekele,Yes
+20-Oct-18,Sri Lanka,England,England,18 runs,Pallekele,Yes
+21-Oct-18,Bangladesh,Zimbabwe,Bangladesh,28 runs,Mirpur,Yes
+21-Oct-18,India,West Indies,India,8 wickets,Barsapara Cricket Stadium,Yes
+23-Oct-18,Sri Lanka,England,Sri Lanka,219 runs,Colombo,Yes
+24-Oct-18,India,West Indies,NaN,NaN,Reddy cricket stadium,No
+24-Oct-18,Bangladesh,Zimbabwe,Bangladesh,7 wickets,Zahur Ahmed Choudhury Stadium,Yes
+26-Oct-18,Bangladesh,Zimbabwe,Bangladesh,7 wickets,Zahur Ahmed Choudhury Stadium,Yes
+27-Oct-18,India,West Indies,West Indies,43 runs,Maharastra,Yes
+29-Oct-18,India,West Indies,India,224 runs,Brabourne Stadium,Yes
+1-Nov-18,India,West Indies,India,9 wickets,Greenfield Stadium,Yes
+4-Nov-18,Australia,South Africa,South Africa,6 wickets,Perth,Yes
+7-Nov-18,Pakistan,NewZeland,NewZeland,47 runs,Abu Dhabi,Yes
+9-Nov-18,Australia,South Africa,Australia,7 runs,Adelaide,Yes
+9-Nov-18,Pakistan,NewZeland,Pakistan,6 wickets,Abu Dhabi,Yes
+11-Nov-18,Australia,South Africa,South Africa,40 runs,Bellerive Oval,Yes
+11-Nov-18,Pakistan,NewZeland,NaN,NaN,Dubai,No
+9-Dec-18,Bangladesh,West Indies,Bangladesh,5 wickets,Mirpur,Yes
+11-Dec-18,Bangladesh,West Indies,West Indies,4 wickets,Mirpur,Yes
+14-Dec-18,Bangladesh,West Indies,Bangladesh,8 wickets,Sylhet,Yes
+3-Jan-19,NewZeland,Sri Lanka,NewZeland,45 runs,Bay Oval,Yes
+5-Jan-19,NewZeland,Sri Lanka,NewZeland,21 runs,Bay Oval,Yes
+8-Jan-19,NewZeland,Sri Lanka,NewZeland,115 runs,Saxton Oval,Yes
+12-Jan-19,Australia,India,Australia,34 runs,Sydney,Yes
+15-Jan-19,Australia,India,India,6 wickets,Adelaide,Yes
+18-Jan-19,Australia,India,India,7 wickets,Melbourne,Yes
+19-Jan-19,South Africa,Pakistan,Pakistan,5 wickets,St George's Park,Yes
+22-Jan-19,South Africa,Pakistan,South Africa,5 wickets,Kingsmead,Yes
+23-Jan-19,NewZeland,India,India,8 wickets,Mclean Park,Yes
+25-Jan-19,UAE,Nepal,UAE,3 wickets,ICC GCA,Yes
+25-Jan-19,South Africa,Pakistan,South Africa,13 runs,SuperSport Park,Yes
+26-Jan-19,NewZeland,India,India,90 runs,Bay Oval,Yes
+26-Jan-19,UAE,Nepal,Nepal,145 runs,ICC GCA,Yes
+27-Jan-19,South Africa,Pakistan,Pakistan,8 wickets,wanderer's Stadium,Yes
+28-Jan-19,NewZeland,India,India,7 wickets,Bay Oval,Yes
+28-Jan-19,UAE,Nepal,Nepal,4 wickets,ICC GCA,Yes
+30-Jan-19,South Africa,Pakistan,South Africa,7 wickets,Newlands,Yes
+31-Jan-19,NewZeland,India,NewZeland,8 wickets,Seddon Park,Yes
+3-Feb-19,NewZeland,India,India,35 runs,Sky Stadium,Yes
+13-Feb-19,NewZeland,Bangladesh,NewZeland,8 wickets,Mclean Park,Yes
+16-Feb-19,NewZeland,Bangladesh,NewZeland,8 wickets,Hagley Oval,Yes
+20-Feb-19,West Indies,England,England,6 wickets,Kensington Oval,Yes
+20-Feb-19,NewZeland,Bangladesh,NewZeland,88 runs,University Oval,Yes
+22-Feb-19,West Indies,England,West Indies,26 runs,Kensington Oval,Yes
+25-Feb-19,West Indies,England,NaN,NaN,Grenada,No
+27-Feb-19,West Indies,England,England,29 runs,Grenada,Yes
+28-Feb-19,Ireland,Afganisthan,Afganisthan,5 wickets,Hyderabad,Yes
+1-Mar-19,West Indies,England,West Indies,7 wickets,Darren Sammy NCS,Yes
+2-Mar-19,India,Australia,India,6 wickets,Hyderabad,Yes
+2-Mar-19,Ireland,Afganisthan,NaN,NaN,Hyderabad,No
+3-Mar-19,South Africa,Sri Lanka,South Africa,8 wickets,wanderer's Stadium,Yes
+5-Mar-19,India,Australia,India,8 runs,Vidharva,Yes
+5-Mar-19,Ireland,Afganisthan,Ireland,4 wickets,Hyderabad,Yes
+6-Mar-29,South Africa,Sri Lanka,South Africa,113 runs,SuperSport Park,Yes
+8-Mar-19,India,Australia,Australia,32 runs,Ranchi,Yes
+8-Mar-19,Ireland,Afganisthan,Afganisthan,109 ruuns,Hyderabad,Yes
+10-Mar-19,South Africa,Sri Lanka,South Africa,71 runs,Kingsmead,Yes
+10-Mar-19,India,Australia,Australia,4 wickets,Punjab,Yes
+10-Mar-19,Ireland,Afganisthan,Ireland,5 wickets,Hyderabad,Yes
+13-Mar-19,South Africa,Sri Lanka,South Africa,6 wickets,St George's Park,Yes
+13-Mar-19,India,Australia,Australia,35 runs,Delhi,Yes
+16-Mar-19,South Africa,Sri Lanka,South Africa,41 runs,Newlands,Yes
+22-Mar-19,Pakistan,Australia,Australia,8 wickets,Sharjah,Yes
+23-Mar-19,Pakistan,Australia,Australia,8 wickets,Sharjah,Yes
+27-Mar-19,Pakistan,Australia,Australia,80 runs,Abu Dhabi,Yes
+29-Mar-19,Pakistan,Australia,Australia,6 runs,Dubai,Yes
+31-Mar-19,Pakistan,Australia,Australia,20 runs,Dubai,Yes
+10-Apr-19,Zimbabwe,UAE,Zimbabwe,7 wickets,Harare,Yes
+12-Apr-19,Zimbabwe,UAE,Zimbabwe,4 runs,Harare,Yes
+13-Apr-19,Zimbabwe,UAE,Zimbabwe,131 runs,Harare,Yes
+16-Apr-19,Zimbabwe,UAE,Zimbabwe,3 wickets,Harare,Yes
+27-Apr-19,PNG,USA,PNG,5 wickets,Affies Park,Yes
+27-Apr-19,Namibia,Oman,Namibia,145 runs,wanderer's Stadium,Yes
+3-May-19,Ireland,England,England,4 wickets,Village,Yes
+5-May-19,Ireland,West Indies,West Indies,196 runs,Castle Avenue,Yes
+7-May-19,Bangladesh,West Indies,Bangladesh,8 wickets,Castle Avenue,Yes
+8-May-19,England,Pakistan,NaN,NaN,Kensington Oval,No
+8-May-19,Scotland,Afganisthan,NaN,NaN,Grange Cricket Club,No
+9-May-19,Ireland,Bangladesh,NaN,NaN,Village,No
+10-May-19,Scotland,Afganisthan,Afganisthan,2 runs,Grange Cricket Club,Yes
+11-May-19,England,Pakistan,England,12 runs,The Rose Bowl,Yes
+11-May-19,Ireland,West Indies,West Indies,5 wickets,Village,Yes
+13-May-19,Bangladesh,West Indies,Bangladesh,5 wickets,Village,Yes
+14-May-19,England,Pakistan,England,6 wickets,Bristol,Yes
+15-May-19,Ireland,Bangladesh,Bangladesh,6 wickets,Castle Avenue,Yes
+17-May-19,England,Pakistan,England,3 wickets,Trent Bridge,Yes
+17-May-19,Bangladesh,West Indies,Bangladesh,5 wickets,Village,Yes
+18-May-19,Scotland,Sri Lanka,NaN,NaN,Grange Cricket Club,No
+19-May-19,Ireland,Afganisthan,Ireland,72 runs,Civil Service Cricket Club,Yes
+19-May-19,England,Pakistan,England,54 runs,Headingly,Yes
+21-May-19,Ireland,Afganisthan,Afganisthan,126 runs,Civil Service Cricket Club,Yes
+21-May-19,Scotland,Sri Lanka,Sri Lanka,35 runs,Grange Cricket Club,Yes
+30-May-19,England,South Africa,England,104 runs,Kensington Oval,Yes
+31-May-19,Pakistan,West Indies,West Indies,7 wickets,Trent Bridge,Yes
+1-Jun-19,NewZeland,Sri Lanka,NewZeland,10 wickets,Sophia Garden,Yes
+1-Jun-19,Afganisthan,Australia,Australia,7 wickets,Bristol,Yes
+2-Jun-19,Bangladesh,South Africa,Bangladesh,21 runs,Kensington Oval,Yes
+3-Jun-19,England,Pakistan,Pakistan,14 runs,Trent Bridge,Yes
+4-Jun-19,Afganisthan,Sri Lanka,Sri Lanka,34 runs,Sophia Garden,Yes
+5-Jun-19,India,South Africa,India,6 wickets,The Rose Bowl,Yes
+5-Jun-19,Bangladesh,NewZeland,NewZeland,2 wickets,Kensington Oval,Yes
+6-Jun-19,Australia,West Indies,Australia,15 runs,Trent Bridge,Yes
+7-Jun-19,Pakistan,Sri Lanka,NaN,NaN,Bristol,No
+8-Jun-19,England,Bangladesh,England,106 runs,Sophia Garden,Yes
+8-Jun-19,Afganisthan,NewZeland,NewZeland,7 wickets,The Cooper Associates County Ground,Yes
+9-Jun-19,Australia,India,India,36 runs,Kensington Oval,Yes
+10-Jun-19,South Africa,West Indies,NaN,NaN,The Rose Bowl,No
+11-Jun-19,Bangladesh,Sri Lanka,NaN,NaN,Bristol,No
+12-Jun-19,Australia,Pakistan,Australia,41 runs,The Cooper Associates County Ground,Yes
+13-Jun-19,India,NewZeland,NaN,NaN,Trent Bridge,No
+14-Jun-19,England,West Indies,England,8 wickets,The Rose Bowl,Yes
+15-Jun-19,Australia,Sri Lanka,Australia,87 runs,Kensington Oval,Yes
+15-Jun-19,Afganisthan,South Africa,South Africa,9 wickets,Sophia Garden,Yes
+16-Jun-19,India,Pakistan,India,89 runs,Old Trafford,Yes
+17-Jun-19,Bangladesh,West Indies,Bangladesh,7 wickets,The Cooper Associates County Ground,Yes
+18-Jun-19,England,Afganisthan,England,150 runs,Old Trafford,Yes
+19-Jun-19,Netherlands,Zimbabwe,Netherlands,7 wickets,Sportspark Het Schootsveld,Yes
+19-Jun-19,NewZeland,South Africa,NewZeland,4 wickets,Edgebaston,Yes
+20-Jun-19,Australia,Bangladesh,Australia,48 runs,Trent Bridge,Yes
+21-Jun-19,Netherlands,Zimbabwe,Netherlands,3 wickets,Sportspark Het Schootsveld,Yes
+21-Jun-19,England,Sri Lanka,Sri Lanka,20 runs,Headingly,Yes
+22-Jun-19,Afganisthan,India,India,11 runs,The Rose Bowl,Yes
+22-Jun-19,NewZeland,West Indies,NewZeland,5 runs,Old Trafford,Yes
+23-Jun-19,Pakistan,South Africa,Pakistan,49 runs,Lords,Yes
+24-Jun-19,Afganisthan,Bangladesh,Bangladesh,62 runs,The Rose Bowl,Yes
+25-Jun-19,England,Australia,Australia,64 runs,Lords,Yes
+26-Jun-19,NewZeland,Pakistan,Pakistan,6 wickets,Edgebaston,Yes
+27-Jun-19,India,West Indies,India,125 runs,Old Trafford,Yes
+28-Jun-19,South Africa,Sri Lanka,South Africa,9 wickets,Riverside Ground,Yes
+29-Jun-19,Afganisthan,Pakistan,Pakistan,3 wickets,Headingly,Yes
+29-Jun-19,Australia,NewZeland,Australia,86 runs,Lords,Yes
+30-Jun-19,England,India,England,31 runs,Edgebaston,Yes
+1-Jul-19,Ireland,Zimbabwe,Ireland,4 wickets,Bready Cricket Club,Yes
+1-Jul-19,Sri Lanka,West Indies,Sri Lanka,23 runs,Riverside Ground,Yes
+2-Jul-19,Bangladesh,India,India,28 runs,Edgebaston,Yes
+3-Jul-19,England,NewZeland,England,119 runs,Riverside Ground,Yes
+4-Jul-19,Ireland,Zimbabwe,Ireland,5 runs,Civil Service Cricket Club,Yes
+4-Jul-19,Afganisthan,West Indies,West Indies,23 runs,Headingly,Yes
+5-Jul-19,Bangladesh,Pakistan,Pakistan,94 runs,Lords,Yes
+6-Jul-19,India,Sri Lanka,India,7 wickets,Headingly,Yes
+6-Jul-19,Australia,South Africa,South Africa,10 runs,Old Trafford,Yes
+7-Jul-19,Ireland,Zimbabwe,Ireland,6 wickets,Civil Service Cricket Club,Yes
+9-Jul-19,India,NewZeland,NewZeland,18 runs,Old Trafford,Yes
+11-Jul-19,England,Australia,England,8 wickets,Edgebaston,Yes
+14-Jul-19,England,NewZeland,England,NaN,Lords,No
+26-Jul-19,Sri Lanka,Bangladesh,Sri Lanka,91 runs,Colombo,Yes
+28-Jul-19,Sri Lanka,Bangladesh,Sri Lanka,7 wickets,Colombo,Yes
+31-Jul-19,Sri Lanka,Bangladesh,Sri Lanka,122 runs,Colombo,Yes
+8-Aug-19,West Indies,India,NaN,NaN,Providence stadium,No
+11-Aug-19,West Indies,India,India,59 runs,Queen's Park Oval,Yes
+14-Aug-19,Oman ,PNG,Oman,4 wickets,Mannofield Park,Yes
+14-Aug-19,West Indies,India,India,6 wickets,Queen's Park Oval,Yes
+15-Aug-19,Scotland,Oman,Oman,8 wickets,Mannofield Park,Yes
+17-Aug-19,Scotland,PNG,Scotland,3 wickets,Mannofield Park,Yes
+18-Aug-19,Scotland,Oman,Scotland,85 runs,Mannofield Park,Yes
+20-Aug-19,Scotland,PNG,Scotland,38 runs,Mannofield Park,Yes
+21-Aug-19,Oman ,PNG,Oman,4 wickets,Mannofield Park,Yes
+13-Sep-19,USA,PNG,USA,5 runs,Central Broward Regional Park,Yes
+17-Sep-19,USA,Namibia,USA,5 wickets,Central Broward Regional Park,Yes
+19-Sep-19,USA,PNG,USA,62 runs,Central Broward Regional Park,Yes
+20-Sep-19,USA,Namibia,Namibia,139 runs,Central Broward Regional Park,Yes
+22-Sep-19,Namibia,PNG,Namibia,4 wickets,Central Broward Regional Park,Yes
+23-Sep-19,Namibia,PNG,Namibia,27 runs,Central Broward Regional Park,Yes
+27-Sep-19,Pakistan,Sri Lanka,NaN,NaN,Karachi,No
+30-Sep-19,Pakistan,Sri Lanka,Pakistan,67 runs,Karachi,Yes
+2-Oct-19,Pakistan,Sri Lanka,Pakistan,5 wickets,Karachi,Yes
+6-Nov-19,Afganisthan,West Indies,West Indies,7 wickets,Lucknow,Yes
+9-Nov-19,Afganisthan,West Indies,West Indies,47 runs,Lucknow,Yes
+11-Nov-19,Afganisthan,West Indies,West Indies,5 wickets,Lucknow,Yes
+8-Dec-19,UAE,USA,USA,3 wickets,Sharjah,Yes
+9-Dec-19,Scotland,USA,USA,35 runs,Sharjah,Yes
+11-Dec-19,UAE,Scotland,NaN,NaN,Sharjah,No
+12-Dec-19,UAE,USA,USA,98 runs,ICC GCA,Yes
+14-Dec-19,Scotland,USA,Scotland,4 wickets,ICC GCA,Yes
+15-Dec-19,India,West Indies,West Indies,8 wickets,Bengaluru,Yes
+15-Dec-19,UAE,Scotland,UAE,7 wickets,ICC GCA,Yes
+18-Dec-19,India,West Indies,India,107 runs,Reddy cricket stadium,Yes
+22-Dec-19,India,West Indies,India,4 wickets,Mumbai,Yes
+5-Jan-20,Oman ,UAE,Oman,5 wickets,Al Amerat Cricket Ground ministry Turf 1,Yes
+6-Jan-20,Namibia,UAE,UAE,8 runs,Al Amerat Cricket Ground ministry Turf 1,Yes
+7-Jan-20,West Indies,Ireland,West Indies,5 wickets,Kensington Oval,Yes
+8-Jan-20,Oman ,Namibia,Namibia,52 runs,Al Amerat Cricket Ground ministry Turf 1,Yes
+9-Jan-20,West Indies,Ireland,West Indies,1 wicket,Kensington Oval,Yes
+9-Jan-20,Namibia,UAE,UAE,8 wickets,Al Amerat Cricket Ground ministry Turf 1,Yes
+11-Jan-20,Oman ,UAE,NaN,NaN,Al Amerat Cricket Ground ministry Turf 1,No
+12-Jan-20,West Indies,Ireland,West Indies,5 wickets,Grenada,Yes
+12-Jan-20,Oman ,Namibia,NaN,NaN,Al Amerat Cricket Ground ministry Turf 1,No
+14-Jan-20,India,Australia,Australia,10 wickets,Mumbai,Yes
+17-Jan-20,India,Australia,India,36 runs,Sourashtra,Yes
+19-Jan-20,India,Australia,India,7 wickets,Bengaluru,Yes
+4-Feb-20,South Africa,England,South Africa,7 wickets,Newlands,Yes
+5-Feb-20,NewZeland,India,NewZeland,4 wickets,Seddon Park,Yes
+5-Feb-20,Nepal,Oman,Oman,18 runs,Tribhuvan,Yes
+6-Feb-20,Oman ,USA,Oman,6 wickets,Tribhuvan,Yes
+7-Feb-20,South Africa,England,NaN,NaN,Kingsmead,No
+8-Feb-20,NewZeland,India,NewZeland,22 runs,Eden Park,Yes
+8-Feb-20,Nepal,USA,Nepal,35 runs,Tribhuvan,Yes
+9-Feb-20,South Africa,England,England,2 wickets,wanderer's Stadium,Yes
+9-Feb-20,Nepal,Oman,Oman,8 wickets,Tribhuvan,Yes
+11-Feb-20,NewZeland,India,NewZeland,5 wickets,Bay Oval,Yes
+11-Feb-20,Oman ,USA,Oman,92 runs,Tribhuvan,Yes
+12-Feb-20,Nepal,USA,Nepal,8 wickets,Tribhuvan,Yes
+22-Feb-20,Sri Lanka,West Indies,Sri Lanka,1 wicket,Singhalese Sports club Ground,Yes
+26-Feb-20,Sri Lanka,West Indies,Sri Lanka,161 runs,Mahinda Rajapaksha Interntional cricket stadium,Yes
+29-Feb-20,South Africa,Australia,South Africa,74 runs,Boland Park,Yes
+1-Mar-20,Bangladesh,Zimbabwe,Bangladesh,169 runs,Sylhet,Yes
+1-Mar-20,Sri Lanka,West Indies,Sri Lanka,6 runs,Pallekele,Yes
+3-Mar-20,Bangladesh,Zimbabwe,Bangladesh,4 runs,Sylhet,Yes
+4-Mar-20,South Africa,Australia,South Africa,6 wickets,Mangaung Oval,Yes
+6-Mar-20,Bangladesh,Zimbabwe,Bangladesh,123 runs,Sylhet,Yes
+7-Mar-20,South Africa,Australia,South Africa,6 wickets,Senwes Stadium,Yes
+12-Mar-20,India,South Africa,NaN,NaN,Himachal Pradesh,No
+13-Mar-20,Australia,NewZeland,Australia,71 runs,Sydney,Yes
+15-Mar-20,India,South Africa,NaN,NaN,Lucknow,No
+18-Mar-20,India,South Africa,NaN,NaN,Eden Gardens,No
+1-Apr-20,USA,UAE,NaN,NaN,Central Broward Regional Park,No
+2-Apr-20,Scotland,UAE,NaN,NaN,Central Broward Regional Park,No
+4-Apr-20,USA,Scotland,NaN,NaN,Central Broward Regional Park,No
+5-Apr-20,USA,UAE,NaN,NaN,Central Broward Regional Park,No
+7-Apr-20,Scotland,UAE,NaN,NaN,Central Broward Regional Park,No
+8-Apr-20,USA,Scotland,NaN,NaN,Central Broward Regional Park,No
+30-Jul-20,England,Ireland,England,6 wickets,The Rose Bowl,Yes
+1-Aug-20,England,Ireland,England,4 wickets,The Rose Bowl,Yes
+4-Aug-20,England,Ireland,Ireland,7 wickets,The Rose Bowl,Yes
+11-Sep-20,England,Australia,Australia,19 runs,Old Trafford,Yes
+13-Sep-20,England,Australia,England,24 runs,Old Trafford,Yes
+16-Sep-20,England,Australia,Australia,3 wickets,Old Trafford,Yes
+30-Oct-20,Pakistan,Zimbabwe,Pakistan,26 runs,Rawalpindi,Yes
+1-Nov-20,Pakistan,Zimbabwe,Pakistan,6 wickets,Rawalpindi,Yes
+3-Nov-20,Pakistan,Zimbabwe,Zimbabwe,NaN,Rawalpindi,No
+27-Nov-20,Australia,India,Australia,66 runs,Sydney,Yes
+29-Nov-20,Australia,India,Australia,51 runs,Sydney,Yes
+2-Dec-20,Australia,India,India,13 runs,Manuka Oval,Yes
+8-Jan-21,UAE,Ireland,UAE,6 wickets,Abu Dhabi,Yes
+12-Jan-21,UAE,Ireland,NaN,NaN,Abu Dhabi,No
+14-Jan-21,UAE,Ireland,NaN,NaN,Abu Dhabi,No
+18-Jan-21,UAE,Ireland,Ireland,112 runs,Abu Dhabi,Yes
+20-Jan-21,Bangladesh,West Indies,Bangladesh,6 wickets,Mirpur,Yes
+21-Jan-21,Afganisthan,Ireland,Afganisthan,16 runs,Abu Dhabi,Yes
+22-Jan-21,Bangladesh,West Indies,Bangladesh,7 wickets,Mirpur,Yes
+24-Jan-21,Afganisthan,Ireland,Afganisthan,7 wickets,Abu Dhabi,Yes
+25-Jan-21,Bangladesh,West Indies,Bangladesh,120 runs,Zahur Ahmed Choudhury Stadium,Yes
+26-Jan-21,Afganisthan,Ireland,Afganisthan,36 runs,Abu Dhabi,Yes
+10-Mar-21,West Indies,Sri Lanka,West Indies,8 wickets,SVVR Stadium,Yes
+12-Mar-21,West Indies,Sri Lanka,West Indies,5 wickets,SVVR Stadium,Yes
+14-Mar-21,West Indies,Sri Lanka,West Indies,5 wickets,SVVR Stadium,Yes
+20-Mar-21,NewZeland,Bangladesh,NewZeland,8 wickets,University Oval,Yes
+23-Mar-21,India,England,India,66 runs,Maharastra,Yes
+23-Mar-21,NewZeland,Bangladesh,NewZeland,5 wickets,Hagley Oval,Yes
+26-Mar-21,India,England,England,6 wickets,Maharastra,Yes
+26-Mar-21,NewZeland,Bangladesh,NewZeland,164 runs,Basin Reserve,Yes
+28-Mar-21,India,England,India,7 runs,Maharastra,Yes
+2-Apr-21,South Africa,Pakistan,Pakistan,3 wickets,SuperSport Park,Yes
+4-Apr-21,South Africa,Pakistan,South Africa,17 runs,wanderer's Stadium,Yes
+7-Apr-21,South Africa,Pakistan,Pakistan,28 runs,SuperSport Park,Yes
+19-May-21,Netherlands,Scotland,Netherlands,14 runs,Hazelaarweg,Yes
+20-May-21,Netherlands,Scotland,Scotland,6 wickets,Hazelaarweg,Yes
+23-May-21,Bangladesh,Sri Lanka,Bangladesh,33 runs,Mirpur,Yes
+25-May-21,Bangladesh,Sri Lanka,Bangladesh,103 runs,Mirpur,Yes
+28-May-21,Bangladesh,Sri Lanka,Sri Lanka,97 runs,Mirpur,Yes
+2-Jun-21,Netherlands,Ireland,Netherlands,1 run,Sportspark Maarschalkerweerd,Yes
+4-Jun-21,Netherlands,Ireland,Ireland,8 wickets,Sportspark Maarschalkerweerd,Yes
+7-Jun-21,Netherlands,Ireland,Netherlands,4 wickets,Sportspark Maarschalkerweerd,Yes
+29-Jun-21,England,Sri Lanka,England,5 wickets,Riverside Ground,Yes
+1-Jul-21,England,Sri Lanka,England,8 wickets,Kensington Oval,Yes
+4-Jul-21,England,Sri Lanka,NaN,NaN,Bristol,No
+8-Jul-21,England,Pakistan,England,9 wickets,Sophia Garden,Yes
+10-Jul-21,England,Pakistan,England,52 runs,Lords,Yes
+11-Jul-21,Ireland,South Africa,NaN,NaN,Village,No
+13-Jul-21,Ireland,South Africa,Ireland,43 runs,Village,Yes
+13-Jul-21,England,Pakistan,England,3 wickets,Edgebaston,Yes
+16-Jul-21,Zimbabwe,Bangladesh,Bangladesh,155 runs,Harare,Yes
+16-Jul-21,Ireland,South Africa,South Africa,70 runs,Village,Yes
+18-Jul-21,Sri Lanka,India,India,7 wickets,Colombo,Yes
+18-Jul-21,Zimbabwe,Bangladesh,Bangladesh,3 wickets,Harare,Yes
+20-Jul-21,West Indies,Australia,Australia,133 runs,Kensington Oval,Yes
+20-Jul-21,Sri Lanka,India,India,3 wickets,Colombo,Yes
+20-Jul-21,Zimbabwe,Bangladesh,Bangladesh,5 wickets,Harare,Yes
+23-Jul-21,Sri Lanka,India,Sri Lanka,3 wickets,Colombo,Yes
+24-Jul-21,West Indies,Australia,West Indies,4 wickets,Kensington Oval,Yes
+26-Jul-21,West Indies,Australia,Australia,6 wickets,Kensington Oval,Yes
+2-Sep-21,Sri Lanka,South Africa,Sri Lanka,14 runs,Colombo,Yes
+4-Sep-21,Sri Lanka,South Africa,South Africa,67 runs,Colombo,Yes
+6-Sep-21,PNG,USA,USA,7 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+7-Sep-21,Nepal,PNG,Nepal,2 wickets,Al Amerat Cricket Ground ministry Turf 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ,Yes
+7-Sep-21,Sri Lanka,South Africa,Sri Lanka,78 runs,Colombo,Yes
+8-Sep-21,Ireland,Zimbabwe,Zimbabwe,38 runs,Civil Service Cricket Club,Yes
+9-Sep-21,PNG,USA,USA,134 runs,Al Amerat Cricket Ground Ministry Turf 2,Yes
+10-Sep-21,Ireland,Zimbabwe,NaN,NaN,Civil Service Cricket Club,No
+10-Sep-21,Nepal,PNG,Nepal,151 runs,Al Amerat Cricket Ground Ministry Turf 1,Yes
+13-Sep-21,Ireland,Zimbabwe,Ireland,7 wickets,Civil Service Cricket Club,Yes
+13-Sep-21,Nepal,USA,Nepal,5 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+14-Sep-21,Oman ,Nepal,Oman,5 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+16-Sep-21,Oman ,USA,Oman,4 wickets,Rawalpindi,Yes
+17-Sep-21,Pakistan,NewZeland,NaN,NaN,Al Amerat Cricket Ground Ministry Turf 1,No
+17-Sep-21,Nepal,USA,USA,6 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+19-Sep-21,Oman ,Nepal,Nepal,7 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+20-Sep-21,Oman ,USA,Oman,72 runs,Al Amerat Cricket Ground Ministry Turf 1,Yes
+25-Sep-21,PNG,Scotland,Scotland,6 wickets,Al Amerat Cricket Ground Ministry Turf 2,Yes
+26-Sep-21,Oman ,PNG,Oman,110 runs,Al Amerat Cricket Ground Ministry Turf 2,Yes
+28-Sep-21,Oman ,Scotland,Scotland,18 runs,Al Amerat Cricket Ground Ministry Turf 2,Yes
+29-Sep-21,PNG,Scotland,Scotland,4 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+1-Oct-21,Oman ,PNG,Oman,3 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+2-Oct-21,Oman ,Scotland,NaN,NaN,Al Amerat Cricket Ground Ministry Turf 1,No
+26-Nov-21,South Africa,Netherlands,NaN,NaN,SuperSport Park,No
+26-Nov-21,Namibia,Oman,Namibia,40 runs,wanderer's Stadium,Yes
+27-Nov-21,Namibia,Oman,Oman,9 runs,wanderer's Stadium,Yes
+30-Nov-21,Namibia,UAE,NaN,NaN,wanderer's Stadium,No
+2-Dec-21,Oman ,UAE,NaN,NaN,wanderer's Stadium,No
+4-Dec-21,Namibia,Oman,NaN,NaN,wanderer's Stadium,No
+5-Dec-21,Namibia,UAE,NaN,NaN,wanderer's Stadium,No
+6-Dec-21,Oman ,UAE,NaN,NaN,wanderer's Stadium,No
+8-Jan-22,West Indies,Ireland,West Indies,24 runs,Sabina Park,Yes
+13-Jan-22,West Indies,Ireland,Ireland,5 wickets,Sabina Park,Yes
+16-Jan-22,Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Pallekele,Yes
+16-Jan-22,West Indies,Ireland,Ireland,2 wickets,Sabina Park,Yes
+18-Jan-22,Sri Lanka,Zimbabwe,Zimbabwe,22 runs,Pallekele,Yes
+19-Jan-22,South Africa,India,South Africa,31 runs,Boland Park,Yes
+21-Jan-22,Afganisthan,Netherlands,Afganisthan,36 runs,West End Park International Cricket Stadium,Yes
+21-Jan-22,South Africa,India,South Africa,7 wickets,Boland Park,Yes
+21-Jan-22,Sri Lanka,Zimbabwe,Sri Lanka,184 runs,Pallekele,Yes
+23-Jan-22,South Africa,India,South Africa,48 runs,Newlands,Yes
+23-Jan-22,Afganisthan,Netherlands,Afganisthan,4 runs,West End Park International Cricket Stadium,Yes
+25-Jan-22,Afganisthan,Netherlands,Afganisthan,75 runs,West End Park International Cricket Stadium,Yes
+5-Feb-22,Oman ,UAE,UAE,4 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+6-Feb-22,India,West Indies,India,6 wickets,Ahmedabad,Yes
+6-Feb-22,Oman ,UAE,UAE,4 wickets,Al Amerat Cricket Ground Ministry Turf 1,Yes
+8-Feb-22,Oman ,UAE,NaN,NaN,Al Amerat Cricket Ground Ministry Turf 1,No
+9-Feb-22,India,West Indies,India,44 runs,Ahmedabad,Yes
+11-Feb-22,India,West Indies,India,96 runs,Ahmedabad,Yes
+23-Feb-22,Bangladesh,Afganisthan,Bangladesh,4 wickets,Zahur Ahmed Choudhury Stadium,Yes
+25-Feb-22,Bangladesh,Afganisthan,Bangladesh,88 runs,Zahur Ahmed Choudhury Stadium,Yes
+28-Feb-22,Bangladesh,Afganisthan,Afganisthan,7 wickets,Zahur Ahmed Choudhury Stadium,Yes
+5-Mar-22,UAE,Oman,Oman,12 runs,ICC GCA,Yes
+6-Mar-22,Namibia,Oman,Namibia,110 runs,ICC GCA,Yes
+8-Mar-22,UAE,Namibia,UAE,3 wickets,ICC GCA,Yes
+9-Mar-22,UAE,Oman,Oman,8 runs,ICC GCA,Yes
+11-Mar-22,Namibia,Oman,Oman,7 wickets,Sharjah,Yes
+12-Mar-22,UAE,Namibia,UAE,43 runs,Sharjah,Yes
+14-Mar-22,Namibia,Oman,Namibia,5 wickets,Dubai,Yes
+15-Mar-22,UAE,PNG,UAE,7 wickets,Sharjah,Yes
+16-Mar-22,Nepal,PNG,Nepal,2 wickets,Sharjah,Yes
+18-Mar-22,South Africa,Bangladesh,Bangladesh,38 runs,SuperSport Park,Yes
+18-Mar-22,UAE,Nepal,UAE,48 runs,Dubai,Yes
+19-Mar-22,UAE,PNG,PNG,6 wickets,Dubai,Yes
+20-Mar-22,South Africa,Bangladesh,South Africa,7 wickets,wanderer's Stadium,Yes
+21-Mar-22,UAE,Nepal,UAE,99 runs,Dubai,Yes
+22-Mar-22,Nepal,PNG,Nepal,7 wickets,Dubai,Yes
+23-Mar-22,South Africa,Bangladesh,Bangladesh,9 wickets,SuperSport Park,Yes
+25-Mar-22,Nepal,PNG,PNG,6 runs,Tribhuvan,Yes
+26-Mar-22,Nepal,PNG,PNG,3 wickets,Tribhuvan,Yes
+29-Mar-22,Pakistan,Australia,Australia,7 wickets,Lahore,Yes
+29-Mar-22,NewZeland,Netherlands,NewZeland,88 runs,Bay Oval,Yes
+31-Mar-22,Pakistan,Australia,Pakistan,6 wickets,Lahore,Yes
+2-Apr-22,Pakistan,Australia,Pakistan,9 wickets,Lahore,Yes
+3-Apr-22,NewZeland,Netherlands,NewZeland,118 runs,Seddon Park,Yes
+4-Apr-22,NewZeland,Netherlands,NewZeland,115 runs,Seddon Park,Yes
+9-Apr-22,PNG,Scotland,Scotland,162 runs,Dubai,Yes
+10-Apr-22,Oman ,Scotland,Scotland,4 runs,Dubai,Yes
+12-Apr-22,Oman ,PNG,Oman,7 wickets,Dubai,Yes
+13-Apr-22,PNG,Scotland,Scotland,123 runs,Dubai,Yes
+15-Apr-22,Oman ,Scotland,Scotland,2 wickets,Dubai,Yes
+16-Apr-22,Oman ,PNG,Oman,85 runs,Dubai,Yes
+28-May-22,USA,Scotland,USA,104 runs,Choice Moosa Stadium,Yes
+29-May-22,USA,Scotland,Scotland,111 runs,Choice Moosa Stadium,Yes
+31-May-22,Netherlands,West Indies,West Indies,7 wickets,VRA Ground,Yes
+31-May-22,Scotland,UAE,Scotland,4 wickets,Choice Moosa Stadium,Yes
+1-Jun-22,USA,UAE,USA,4 wickets,Choice Moosa Stadium,Yes
+2-Jun-22,Netherlands,West Indies,West Indies,5 wickets,VRA Ground,Yes
+3-Jun-22,Scotland,UAE,UAE,5 wickets,Choice Moosa Stadium,Yes
+4-Jun-22,Zimbabwe,Afganisthan,Afganisthan,60 runs,Harare,Yes
+4-Jun-22,Netherlands,West Indies,West Indies,20 runs,VRA Ground,Yes
+4-Jun-22,USA,UAE,UAE,8 wickets,Choice Moosa Stadium,Yes
+6-Jun-22,Zimbabwe,Afganisthan,Afganisthan,8 wickets,Harare,Yes
+8-Jun-22,Pakistan,West Indies,Pakistan,5 wickets,Multan,Yes
+8-Jun-22,USA,Oman,USA,114 runs,Choice Moosa Stadium,Yes
+9-Jun-22,Zimbabwe,Afganisthan,Afganisthan,4 wickets,Harare,Yes
+9-Jun-22,Nepal,Oman,Oman,13 runs,Choice Moosa Stadium,Yes
+10-Jun-22,Pakistan,West Indies,Pakistan,120 runs,Multan,Yes
+11-Jun-22,USA,Nepal,NaN,NaN,Choice Moosa Stadium,No
+12-Jun-22,Pakistan,West Indies,Pakistan,53 runs,Multan,Yes
+12-Jun-22,USA,Oman,Oman,13 runs,Choice Moosa Stadium,Yes
+14-Jun-22,Sri Lanka,Australia,Australia,2 wickets,Pallekele,Yes
+14-Jun-22,Oman ,Nepal,Nepal,7 wickets,Choice Moosa Stadium,Yes
+15-Jun-22,USA,Nepal,USA,39 runs,Choice Moosa Stadium,Yes
+16-Jun-22,Sri Lanka,Australia,Sri Lanka,26 runs,Pallekele,Yes
+17-Jun-22,Netherlands,England,England,232 runs,VRA Ground,Yes
+19-Jun-22,Netherlands,England,England,6 wickets,VRA Ground,Yes
+19-Jun-22,Sri Lanka,Australia,Sri Lanka,6 wickets,Colombo,Yes
+21-Jun-22,Sri Lanka,Australia,Sri Lanka,4 runs,Colombo,Yes
+22-Jun-22,Netherlands,England,England,8 wickets,VRA Ground,Yes
+24-Jun-22,Sri Lanka,Australia,Australia,4 wickets,Colombo,Yes
+10-Jul-22,Ireland,NewZeland,NewZeland,1 wicket,Village,Yes
+10-Jul-22,West Indies,Bangladesh,Bangladesh,6 wickets,Providence stadium,Yes
+10-Jul-22,Scotland,Namibia,Scotland,77 runs,Titwood,Yes
+11-Jul-22,Namibia,Nepal,Namibia,40 runs,Cambusdoon New Ground,Yes
+12-Jul-22,England,India,India,10 wickets,Kensington Oval,Yes
+12-Jul-22,Ireland,NewZeland,NewZeland,3 wickets,Village,Yes
+13-Jul-22,West Indies,Bangladesh,Bangladesh,9 wickets,Providence stadium,Yes
+13-Jul-22,Scotland,Nepal,Nepal,5 wickets,Titwood,Yes
+14-Jul-22,England,India,England,100 runs,Lords,Yes
+14-Jul-22,Scotland,Namibia,Scotland,3 wickets,Titwood,Yes
+15-Jul-22,Ireland,NewZeland,NewZeland,1 run,Village,Yes
+16-Jul-22,West Indies,Bangladesh,Bangladesh,4 wickets,Providence stadium,Yes
+16-Jul-22,Namibia,Nepal,Namibia,63 runs,Cambusdoon New Ground,Yes
+17-Jul-22,England,India,India,5 wickets,Old Trafford,Yes
+17-Jul-22,Scotland,Nepal,Scotland,8 wickets,Titwood,Yes
+19-Jul-22,England,South Africa,South Africa,62 runs,Riverside Ground,Yes
+22-Jul-22,West Indies,India,India,3 runs,Queen's Park Oval,Yes
+22-Jul-22,England,South Africa,England,118 runs,Old Trafford,Yes
+24-Jul-22,West Indies,India,India,2 wickets,Queen's Park Oval,Yes
+24-Jul-22,England,South Africa,NaN,NaN,Headingly,No
+27-Jul-22,West Indies,India,India,119 runs,Queen's Park Oval,Yes
+31-Jul-22,Scotland,NewZeland,NewZeland,7 wickets,Grange Cricket Club,Yes
+5-Aug-22,Zimbabwe,Bangladesh,Zimbabwe,5 wickets,Harare,Yes
+7-Aug-22,Zimbabwe,Bangladesh,Zimbabwe,5 wickets,Harare,Yes
+10-Aug-22,Zimbabwe,Bangladesh,Bangladesh,105 runs,Harare,Yes
+10-Aug-22,Scotland,UAE,Scotland,64 runs,Mannofield Park,Yes
+11-Aug-22,UAE,USA,USA,1 wicket,Mannofield Park,Yes
+13-Aug-22,Scotland,USA,Scotland,5 wickets,Mannofield Park,Yes
+14-Aug-22,Scotland,UAE,Scotland,86 runs,Mannofield Park,Yes
+16-Aug-22,Netherlands,Pakistan,Pakistan,16 runs,Hazelaarweg,Yes
+16-Aug-22,UAE,USA,NaN,NaN,Mannofield Park,No
+17-Aug-22,West Indies,NewZeland,West Indies,5 wickets,Kensington Oval,Yes
+17-Aug-22,Scotland,USA,USA,2 wickets,Mannofield Park,Yes
+18-Aug-22,Zimbabwe,India,India,10 wickets,Harare,Yes
+18-Aug-22,Netherlands,Pakistan,Pakistan,7 wickets,Hazelaarweg,Yes
+19-Aug-22,West Indies,NewZeland,NewZeland,50 runs,Kensington Oval,Yes
+20-Aug-22,Zimbabwe,India,India,5 wickets,Harare,Yes
+21-Aug-22,Netherlands,Pakistan,Pakistan,9 runs,Hazelaarweg,Yes
+21-Aug-22,West Indies,NewZeland,NewZeland,5 wickets,Kensington Oval,Yes
+22-Aug-22,Zimbabwe,India,India,13 runs,Harare,Yes
+28-Aug-22,Australia,Zimbabwe,Australia,5 wickets,Riverway Stadium,Yes
+31-Aug-22,Australia,Zimbabwe,Australia,8 wickets,Riverway Stadium,Yes
+3-Sep-22,Australia,Zimbabwe,Zimbabwe,3 wickets,Riverway Stadium,Yes
+6-Sep-22,Australia,NewZeland,Australia,2 wickets,Cazaly's Stadium,Yes
+8-Sep-22,Australia,NewZeland,Australia,113 runs,Cazaly's Stadium,Yes
+11-Sep-22,Australia,NewZeland,Australia,25 runs,Cazaly's Stadium,Yes
+11-Sep-22,PNG,USA,NaN,NaN,Amini Park,No
+13-Sep-22,PNG,USA,PNG,26 runs,Amini Park,Yes
+15-Sep-22,Namibia,USA,Namibia,79 runs,Amini Park,Yes
+17-Sep-22,Namibia,USA,Namibia,68 runs,Amini Park,Yes
+20-Sep-22,PNG,Namibia,Namibia,167 runs,Amini Park,Yes
+21-Sep-22,PNG,Namibia,Namibia,61 runs,Amini Park,Yes
+6-Oct-22,India,South Africa,South Africa,9 runs,Lucknow,Yes
+9-Oct-22,India,South Africa,India,7 wickets,Ranchi,Yes
+11-Oct-22,India,South Africa,India,7 wickets,Delhi,Yes
+14-Nov-22,Nepal,UAE,UAE,84 runs,Tribhuvan,Yes
+16-Nov-22,Nepal,UAE,Nepal,3 wickets,Tribhuvan,Yes
+17-Nov-22,Australia,England,Australia,6 wickets,Adelaide,Yes
+18-Nov-22,Nepal,UAE,Nepal,6 wickets,Tribhuvan,Yes
+19-Nov-22,Australia,England,Australia,72 runs,Sydney,Yes
+19-Nov-22,Namibia,PNG,Namibia,8 wickets,wanderer's Stadium,Yes
+20-Nov-22,Namibia,USA,USA,71 runs,wanderer's Stadium,Yes
+22-Nov-22,Australia,England,Australia,221 runs,Melbourne,Yes
+22-Nov-22,PNG,USA,USA,6 wickets,wanderer's Stadium,Yes
+23-Nov-22,Namibia,PNG,Namibia,3 wickets,wanderer's Stadium,Yes
+25-Nov-22,NewZeland,India,NewZeland,7 wickets,Eden Park,Yes
+25-Nov-22,Sri Lanka,Afganisthan,Afganisthan,60 runs,Pallekele,Yes
+25-Nov-22,PNG,USA,USA,35 runs,wanderer's Stadium,Yes
+26-Nov-22,Namibia,USA,Namibia,6 wickets,wanderer's Stadium,Yes
+27-Nov-22,NewZeland,India,NaN,NaN,Seddon Park,No
+27-Nov-22,Sri Lanka,Afganisthan,NaN,NaN,Pallekele,No
+30-Nov-22,NewZeland,India,NaN,NaN,Hagley Oval,No
+30-Nov-22,Sri Lanka,Afganisthan,Sri Lanka,4 wickets,Pallekele,Yes
+1-Dec-22,Namibia,Scotland,Scotland,4 wickets,United Cricket Club,Yes
+2-Dec-22,Namibia,Nepal,NaN,NaN,United Cricket Club,No
+4-Dec-22,Bangladesh,India,Bangladesh,1 wicket,Mirpur,Yes
+4-Dec-22,Nepal,Scotland,Scotland,3 wickets,United Cricket Club,Yes
+5-Dec-22,Namibia,Scotland,Namibia,3 wickets,United Cricket Club,Yes
+7-Dec-22,Bangladesh,India,Bangladesh,5 runs,Mirpur,Yes
+7-Dec-22,Namibia,Nepal,Namibia,86 runs,United Cricket Club,Yes
+8-Dec-22,Nepal,Scotland,Scotland,8 wickets,United Cricket Club,Yes
+10-Dec-22,Bangladesh,India,India,227 runs,Zahur Ahmed Choudhury Stadium,Yes
+9-Jan-23,Pakistan,NewZeland,Pakistan,6 wickets,Karachi,Yes
+10-Jan-23,India,Sri Lanka,India,67 runs,Barsapara Cricket Stadium,Yes
+11-Jan-23,Pakistan,NewZeland,NewZeland,79 runs,Karachi,Yes
+12-Jan-23,India,Sri Lanka,India,4 wickets,Eden Gardens,Yes
+13-Jan-23,Pakistan,NewZeland,NewZeland,2 wickets,Karachi,Yes
+15-Jan-23,India,Sri Lanka,India,317 runs,Greenfield Stadium,Yes
+18-Jan-23,India,NewZeland,India,12 runs,Hyderabad,Yes
+18-Jan-23,Zimbabwe,Ireland,Zimbabwe,3 wickets,Harare,Yes
+21-Jan-23,India,NewZeland,India,8 wickets,Shaheed Veer Narayan Sing International Stadium,Yes
+21-Jan-23,Zimbabwe,Ireland,Ireland,46 runs,Harare,Yes
+23-Jan-23,Zimbabwe,Ireland,NaN,NaN,Harare,No
+24-Jan-23,India,NewZeland,India,90 runs,Bhopal,Yes
+27-Jan-23,South Africa,England,South Africa,27 runs,Mangaung Oval,Yes
+29-Jan-23,South Africa,England,South Africa,5 wickets,Mangaung Oval,Yes
+1-Feb-23,South Africa,England,England,59 runs,Diamond Oval,Yes
+14-Feb-23,Nepal,Namibia,Nepal,2 wickets,Tribhuvan,Yes
+15-Feb-23,Namibia,Scotland,Scotland,10 wickets,Tribhuvan,Yes
+17-Feb-23,Nepal,Scotland,Nepal,3 wickets,Tribhuvan,Yes
+18-Feb-23,Nepal,Namibia,Nepal,3 wickets,Tribhuvan,Yes
+20-Feb-23,Namibia,Scotland,Scotland,43 runs,Tribhuvan,Yes
+21-Feb-23,Nepal,Scotland,Nepal,2 wickets,Tribhuvan,Yes
+23-Feb-23,UAE,Namibia,UAE,1 wicket,Dubai,Yes
+25-Feb-23,UAE,Namibia,Namibia,7 wickets,Dubai,Yes
+27-Feb-23,Nepal,PNG,Nepal,4 wickets,Dubai,Yes
+28-Feb-23,UAE,PNG,PNG,131 runs,Dubai,Yes
+1-Mar-23,Bangladesh,England,England,3 wickets,Mirpur,Yes
+2-Mar-23,UAE,Nepal,UAE,68 runs,Dubai,Yes
+3-Mar-23,Bangladesh,England,England,132 runs,Mirpur,Yes
+3-Mar-23,Nepal,PNG,Nepal,3 wickets,Dubai,Yes
+5-Mar-23,UAE,PNG,PNG,5 wickets,Dubai,Yes
+6-Mar-23,Bangladesh,England,Bangladesh,50 runs,Zahur Ahmed Choudhury Stadium,Yes
+6-Mar-23,UAE,Nepal,Nepal,42 runs,Dubai,Yes
+9-Mar-23,Nepal,PNG,Nepal,52 runs,Tribhuvan,Yes
+10-Mar-23,PNG,UAE,PNG,56 runs,Tribhuvan,Yes
+12-Mar-23,Nepal,UAE,Nepal,177 runs,Tribhuvan,Yes
+13-Mar-23,Nepal,PNG,Nepal,9 wickets,Tribhuvan,Yes
+15-Mar-23,PNG,UAE,UAE,6 wickets,Tribhuvan,Yes
+16-Mar-23,South Africa,West Indies,NaN,NaN,Buffalo Park,No
+16-Mar-23,Nepal,UAE,Nepal,9 runs,Tribhuvan,Yes
+17-Mar-23,India,Australia,India,5 wickets,Mumbai,Yes
+18-Mar-23,Bangladesh,Ireland,Bangladesh,183 runs,Sylhet,Yes
+18-Mar-23,South Africa,West Indies,West Indies,48 runs,Buffalo Park,Yes
+19-Mar-23,India,Australia,Australia,10 wickets,Reddy cricket stadium,Yes
+20-Mar-23,Bangladesh,Ireland,NaN,NaN,Sylhet,No
+21-Mar-23,zimbabwe,Netherlands,Netherlands,3 wickets,Harare,Yes
+21-Mar-23,South Africa,West Indies,South Africa,4 wickets,Senwes Stadium,Yes
+22-Mar-23,India,Australia,Australia,21 runs,Bengaluru,Yes
+23-Mar-23,Zimbabwe,Netherlands,Zimbabwe,1 run,Harare,Yes
+23-Mar-23,Bangladesh,Ireland,Bangladesh,10 wickets,Sylhet,Yes
+25-Mar-23,NewZeland,Sri Lanka,NewZeland,198 runs,Eden Park,Yes
+25-Mar-23,Zimbabwe,Netherlands,Zimbabwe,7 wickets,Harare,Yes
+26-Mar-23,Namibia,USA,USA,80 runs,wanderer's Stadium,Yes
+27-Mar-23,PNG,UAE,UAE,21 runs,wanderer's Stadium,Yes
+27-Mar-23,Canada,Jersy,Canada,31 runs,United Cricket Club,Yes
+28-Mar-23,NewZeland,Sri Lanka,NaN,NaN,Hagley Oval,No
+29-Mar-23,Canada,USA,Canada,26 runs,wanderer's Stadium,Yes
+29-Mar-23,Namibia,PNG,Namibia,48 runs,United Cricket Club,Yes
+30-Mar-23,Namibia,Jersy,Namibia,8 wickets,wanderer's Stadium,Yes
+30-Mar-23,UAE,USA,USA,5 wickets,United Cricket Club,Yes
+31-Mar-23,South Africa,Netherlands,South Africa,8 wickets,Willowmoore park,Yes
+31-Mar-23,NewZeland,Sri Lanka,NewZeland,6 wickets,Seddon Park,Yes
+1-Apr-23,Canada,UAE,UAE,6 wickets,wanderer's Stadium,Yes
+1-Apr-23,Jersy,PNG,Jersy,11 runs,United Cricket Club,Yes
+2-Apr-23,South Africa,Netherlands,South Africa,146 runs,wanderer's Stadium,Yes
+2-Apr-23,PNG,USA,USA,117 runs,wanderer's Stadium,Yes
+2-Apr-23,Namibia,UAE,UAE,28 runs,United Cricket Club,Yes
+4-Apr-23,Namibia,Canada,Namibia,111 runs,wanderer's Stadium,Yes
+4-Apr-23,Jersy,USA,USA,25 runs,United Cricket Club,Yes
+5-Apr-23,Jersy,UAE,UAE,66 runs,wanderer's Stadium,Yes
+5-Apr-23,Canada,PNG,Canada,90 runs,United Cricket Club,Yes
+21-Apr-23,Nepal,Oman,Nepal,84 runs,Tribhuvan,Yes
+27-Apr-23,Pakistan,NewZeland,Pakistan,5 wickets,Rawalpindi,Yes
+29-Apr-23,Oman ,UAE,UAE,2 runs,Mulpani Cricket Ground,Yes
+29-Apr-23,Pakistan,NewZeland,oak,7 wickets,Rawalpindi,Yes
+1-May-23,Nepal,UAE,Nepal,7 wickets,Tribhuvan,Yes
+3-May-23,Pakistan,NewZeland,Pakistan,26 runs,Karachi,Yes
+5-May-23,Pakistan,NewZeland,Pakistan,102 runs,Karachi,Yes
+7-May-23,Pakistan,NewZeland,NewZeland,47 runs,Karachi,Yes
+9-May-23,Ireland,Bangladesh,NaN,NaN,Chelmsford,No
+12-May-23,Ireland,Bangladesh,Bangladesh,3 wickets,Chelmsford,Yes
+14-May-23,Ireland,Bangladesh,Bangladesh,5 runs,Chelmsford,Yes
+2-Jun-23,Sri Lanka,Afganisthan,Afganisthan,6 wickets,Mahinda Rajapaksha Interntional cricket stadium,Yes
+4-Jun-23,UAE,West Indies,West Indies,7 wickets,Sharjah,Yes
+4-Jun-23,Sri Lanka,Afganisthan,Sri Lanka,132 runs,Mahinda Rajapaksha Interntional cricket stadium,Yes
+6-Jun-23,UAE,West Indies,West Indies,78 runs,Sharjah,Yes
+7-Jun-23,Sri Lanka,Afganisthan,Sri Lanka,9 wickets,Mahinda Rajapaksha Interntional cricket stadium,Yes
+9-Jun-23,UAE,West Indies,West Indies,4 wickets,Sharjah,Yes
+18-Jun-23,Zimbabwe,Nepal,Zimbabwe,8 wickets,Harare,Yes
+18-Jun-23,West Indies,USA,West Indies,39 runs,Takashinga Sports Club,Yes
+19-Jun-23,Sri Lanka,UAE,Sri Lanka,175 runs,Queen's Park Oval,Yes
+19-Jun-23,Ireland,Oman,Oman,5 wickets,Bulawayo,Yes
+20-Jun-23,Zimbabwe,Netherlands,Zimbabwe,6 wickets,Harare,Yes
+20-Jun-23,Nepal,USA,Nepal,6 wickets,Takashinga Sports Club,Yes
+21-Jun-23,Ireland,Scotland,Scotland,1 wicket,Queen's Park Oval,Yes
+21-Jun-23,Oman ,UAE,Oman,5 wickets,Bulawayo,Yes
+22-Jun-23,Nepal,West Indies,West Indies,101 runs,Harare,Yes
+22-Jun-23,Netherlands,USA,Netherlands,5 wickets,Takashinga Sports Club,Yes
+23-Jun-23,Oman ,Sri Lanka,Sri Lanka,10 wickets,Queen's Park Oval,Yes
+23-Jun-23,Scotland,UAE,Scotland,111 runs,Bulawayo,Yes
+24-Jun-23,Zimbabwe,West Indies,Zimbabwe,35 runs,Harare,Yes
+24-Jun-23,Nepal,Netherlands,Netherlands,7 wickets,Takashinga Sports Club,Yes
+25-Jun-23,Ireland,Sri Lanka,Sri Lanka,133 runs,Queen's Park Oval,Yes
+25-Jun-23,Oman ,Scotland,Scotland,76 runs,Bulawayo,Yes
+26-Jun-23,Zimbabwe,USA,Zimbabwe,304 runs,Harare,Yes
+26-Jun-23,Netherlands,West Indies,Netherlands,NaN,Takashinga Sports Club,No
+27-Jun-23,Scotland,Sri Lanka,Sri Lanka,82 runs,Queen's Park Oval,Yes
+27-Jun-23,Ireland,UAE,Ireland,138 runs,Bulawayo,Yes
+29-Jun-23,Zimbabwe,Oman,Zimbabwe,14 runs,Queen's Park Oval,Yes
+30-Jun-23,Netherlands,Sri Lanka,Sri Lanka,21 runs,Queen's Park Oval,Yes
+30-Jun-23,Ireland,USA,Ireland,6 wickets,Takashinga Sports Club,Yes
+1-Jul-23,Scotland,West Indies,Scotland,7 wickets,Harare,Yes
+2-Jul-23,zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Queen's Park Oval,Yes
+2-Jul-23,Nepal,UAE,Nepal,3 wickets,Takashinga Sports Club,Yes
+3-Jul-23,Netherlands,Oman,Netherlands,74 runs,Harare,Yes
+4-Jul-23,zimbabwe,Scotland,Scotland,31 runs,Queen's Park Oval,Yes
+4-Jul-23,Ireland,Nepal,Ireland,2 wickets,Takashinga Sports Club,Yes
+5-Jul-23,Bangladesh,Afganisthan,Afganisthan,17 runs,Zahur Ahmed Choudhury Stadium,Yes
+5-Jul-23,Oman ,West Indies,West Indies,7 wickets,Harare,Yes
+6-Jul-23,Netherlands,Scotland,Netherlands,4 wickets,Queen's Park Oval,Yes
+6-Jul-23,UAE,USA,UAE,1 run,Takashinga Sports Club,Yes
+7-Jul-23,Sri Lanka,West Indies,Sri Lanka,8 wickets,Harare,Yes
+8-Jul-23,Bangladesh,Afganisthan,Afganisthan,142 runs,Zahur Ahmed Choudhury Stadium,Yes
+9-Jul-23,Netherlands,Sri Lanka,Netherlands,128 runs,Harare,Yes
+11-Jul-23,Bangladesh,Afganisthan,Bangladesh,7 wickets,Zahur Ahmed Choudhury Stadium,Yes
+27-Jul-23,West Indies,India,India,5 wickets,Kensington Oval,Yes
+29-Jul-23,West Indies,India,West Indies,6 wickets,Kensington Oval,Yes
+1-Aug-23,West Indies,India,India,200 runs,Brian Lara Stadium,Yes
